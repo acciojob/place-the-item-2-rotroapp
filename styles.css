@@ -1,8 +1,9 @@
-main {
+nav ul {
 	display : flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
-p {
-	margin : 10px;
+
+li {
+	margin: 15px;
 }
