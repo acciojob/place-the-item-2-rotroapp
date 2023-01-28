@@ -1,7 +1,7 @@
 main {
 	display : flex;
 	flex-wrap: wrap;
-	
+	justify-content: center;
 }
 p {
 	margin : 10px;
