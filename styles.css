@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+main {
+	display : flex;
+	flex-wrap: wrap;
+	
+}
+p {
+	margin : 10px;
+}
